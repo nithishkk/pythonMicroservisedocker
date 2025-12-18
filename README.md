@@ -31,5 +31,10 @@ docker-compose up --build
 
    setp2: sudo docker compose up -d
 
+   just kill the container
+
+   sudo docker compose down
+
+
 
          
