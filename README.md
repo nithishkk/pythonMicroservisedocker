@@ -20,4 +20,11 @@ docker-compose up --build
 
 
   docker logs auth_service
+
+   Dec-18-2025
+
+        (OR)
+
+  sudo docker compose build
+
          
