@@ -25,6 +25,11 @@ docker-compose up --build
 
         (OR)
 
-  sudo docker compose build
+  setp1:   sudo docker compose build
+
+  after build once then run below commend
+
+   setp2: sudo docker compose up -d
+
 
          
